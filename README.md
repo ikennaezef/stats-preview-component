@@ -43,5 +43,5 @@ Users should be able to:
 ## Author
 
 - Website - [Ikenna Eze](https://ikennaezef.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ikennaezef](https://www.frontendmentor.io/profile/ikennaezef)
 - Twitter - [@lkennae_](https://www.twitter.com/lkennae_)
